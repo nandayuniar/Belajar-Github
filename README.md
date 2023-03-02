@@ -1,3 +1,3 @@
 # Belajar-Github
-Ini adalah repository belajar github pada coursera course
+Ini adalah repository untuk belajar github pada coursera course
 I am editing the README file. Adding some more details about the project description.
